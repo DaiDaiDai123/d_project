@@ -1,6 +1,6 @@
 import SideBar from "./SideBar.js"
 import './App.css';
-import "./warning"
+import "./warning.js"
 
 function App() {
   return (
