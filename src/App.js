@@ -1,5 +1,4 @@
 import SideBar from "./SideBar.js"
-import './yin.css';
 import './App.css';
 import "./warning"
 
