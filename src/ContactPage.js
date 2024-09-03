@@ -6,7 +6,7 @@ const contactPage = () => {
                     Contacts
                 </h1>
                 <div class = "row-start-2 col-start-1">
-                    Not Going to Put My personal information here. But you could reach me through dreams, telepathy or this random email address that is totaly not mine: daishuming4@gamil.com.
+                    Not Going to Put My personal information here. But you could reach me through dreams, telepathy or this random email address that is totaly not mine: daishuming4@gmail.com.
                 </div>
             </div>
         </body>
